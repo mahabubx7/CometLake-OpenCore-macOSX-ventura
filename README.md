@@ -9,8 +9,8 @@
 
 > Latest ScreenShots
 
-![wifi-blue]('./screenshots/wifi-blue.png')
+![about](./screenshots/about-mac.png)
 
-![about]('./screenshots/about-mac.png')
+![wifi-blue](./screenshots/wifi-blue.png)
 
-![desktop]('./screenshots/desktop.jpeg')
+![desktop](./screenshots/desktop.jpeg)
