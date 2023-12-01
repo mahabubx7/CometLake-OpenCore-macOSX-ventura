@@ -6,3 +6,11 @@
 - [x] Working internet connection with LAN.
 - [x] Fixed iGPU, USB, Sound, Bluetooh so far.
 - [ ] Fixed WiFi connectivity! // Working to resolve it!
+
+> Latest ScreenShots
+
+![wifi-blue]('./screenshots/wifi-blue.png')
+
+![about]('./screenshots/about-mac.png')
+
+![desktop]('./screenshots/desktop.jpeg')
